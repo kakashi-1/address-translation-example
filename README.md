@@ -10,5 +10,12 @@ On OSX,
 
 brew install openssl
 
+To run the examples simply type,
+
+python bitpay_to_trad.py
+
+python trad_to_bitpay.py
+
+python traditional.py
 
 
